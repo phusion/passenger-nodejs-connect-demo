@@ -1,0 +1,12 @@
+{
+  "name": "passenger-nodejs-connect-demo",
+  "version": "1.0.0",
+  "description": "Passenger + Node.js + Connect.js demo",
+  "main": "app.js",
+  "repository": "https://github.com/phusion/passenger-nodejs-connect-demo.git",
+  "author": "Phusion",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.3.5"
+  }
+}
